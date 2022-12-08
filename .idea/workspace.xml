@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab3e84c4-d52a-4a99-9a3c-d5277466e70a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GHkOk8DzqUmXdkrKkBuYvGFkvm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/seculayer user/Desktop/dga",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seculayer user\ssangmi\dga\dga_by_rf" />
+      <recent name="C:\Users\seculayer user\ssangmi\dga\dga_by_rf\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dga" type="PythonConfigurationType" factoryName="Python">
+      <module name="dga" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\seculayer user\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab3e84c4-d52a-4a99-9a3c-d5277466e70a" name="Changes" comment="" />
+      <created>1666052871181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666052871181</updated>
+      <workItem from="1666052873844" duration="1929000" />
+      <workItem from="1666054990714" duration="156000" />
+      <workItem from="1666055178072" duration="149000" />
+      <workItem from="1666055353462" duration="106000" />
+      <workItem from="1666055944243" duration="462000" />
+      <workItem from="1666056450572" duration="1275000" />
+      <workItem from="1666057818313" duration="3744000" />
+      <workItem from="1666066542857" duration="44000" />
+      <workItem from="1666672218300" duration="7943000" />
+      <workItem from="1666743595735" duration="3962000" />
+      <workItem from="1666761139328" duration="77000" />
+      <workItem from="1666763271019" duration="3713000" />
+      <workItem from="1666829424732" duration="4052000" />
+      <workItem from="1667178795601" duration="51000" />
+      <workItem from="1667197409496" duration="1299000" />
+      <workItem from="1667281648250" duration="6000" />
+      <workItem from="1667286392914" duration="9000" />
+      <workItem from="1667292181249" duration="4000" />
+      <workItem from="1667372149684" duration="11000" />
+      <workItem from="1667436058078" duration="596000" />
+      <workItem from="1668043718082" duration="4000" />
+      <workItem from="1668056889223" duration="5000" />
+      <workItem from="1668063337333" duration="7000" />
+      <workItem from="1668401383374" duration="195000" />
+      <workItem from="1670394416301" duration="1025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dga$self_check.coverage" NAME="self_check Coverage Results" MODIFIED="1666058500222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AppData/Local/Programs/Python/Python310/Lib/site-packages/tensorflow/python/platform" />
+    <SUITE FILE_PATH="coverage/dga$RF_IMPL.coverage" NAME="RF_IMPL Coverage Results" MODIFIED="1667198018128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dga_by_rf" />
+    <SUITE FILE_PATH="coverage/dga$XGB_Model.coverage" NAME="XGB_Model Coverage Results" MODIFIED="1666841109080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dga_by_rf/Module" />
+  </component>
+</project>
